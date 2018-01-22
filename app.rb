@@ -1,4 +1,5 @@
-rackup app.rbrequire_relative 'config/environment'
+rackup app.rb
+require_relative 'config/environment'
 
 class App < Sinatra::Base
 
