@@ -24,7 +24,7 @@ For the purpose of this lesson, fork and clone this repo. There are, however, no
 
 <img src="https://s3.amazonaws.com/learn-verified/rackup.png">
 
-Pay attention to the line that says `Listening on localhost:9292`. `localhost:9292` is the url you want to enter in the browser. If you are in the Learn IDE, you will see a different address — [here's an explanatory Help Center article](http://help.learn.co/the-learn-ide/common-ide-questions/accessing-localhost-in-the-learn-ide). Go ahead and copy and paste that into the browser. You should see `Welcome to your app!!!!` on the screen.
+Pay attention to the line that says `Listening on localhost:9292`. `localhost:9292` is the url you want to enter in the browser. If you are in the Learn IDE,  will see a different address — [here's an explanatory Help Center article](http://help.learn.co/the-learn-ide/common-ide-questions/accessing-localhost-in-the-learn-ide). Go ahead and copy and paste that into the browser. You should see `Welcome to your app!!!!` on the screen.
 
 When starting an application with `rackup`, our application code is read once on boot and never again. Once we start the application locally, if we make changes to our code, our running application server will not read those changes until it is stopped and restarted.
 
