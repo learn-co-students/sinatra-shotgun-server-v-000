@@ -1,4 +1,4 @@
-# A sample Gemfile
+s# A sample Gemfile
 source "https://rubygems.org"
 
 # gem "rails"
@@ -9,4 +9,3 @@ gem 'thin'
 gem 'shotgun'
 gem 'pry'
 gem 'require_all'
-    
