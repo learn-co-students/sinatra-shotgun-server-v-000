@@ -10,7 +10,11 @@ GEM
       method_source (~> 0.8.1)
       slop (~> 3.4)
     rack (1.6.13)
-    rack-protection (1.5.3)
+# <<<<<<< dependabot/bundler/rack-1.6.13
+#     rack-protection (1.5.3)
+# =======
+#     rack-protection (1.5.5)
+# >>>>>>> master
       rack
     rake (10.4.2)
     require_all (1.3.3)
